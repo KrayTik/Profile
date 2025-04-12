@@ -24,10 +24,7 @@ We build things that feel *alive*. Here’s what drives us:
 🎉 **Joyful Learning**: Mistakes welcome. Seriously.
 
 --- 
-
-### **How We Roll**
-- **Chat**: [![Discord](https://img.shields.io/badge/Discord-Join%20Us-blue)](https://discord.gg/aJ2KmeYa5w) for memes and deep dives.  
-- **Celebrate**: We highlight contributors monthly 🎉
+[![Discord](https://img.shields.io/badge/Join%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/aJ2KmeYa5w)
 
 ---
 
