@@ -39,7 +39,7 @@ We build things that feel *alive*. Here’s what drives us:
 ---
 
 ### **Drop Us a Line**
-Contact sikatrick@gmail.com
+Contact sikatrick@gmail.com for help!
 
 
 
