@@ -1,9 +1,9 @@
 # 🌈 **Welcome to KrayTik**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9338aa45-887d-401a-8a2c-36269c647781" 
+  <img src="https://github.com/user-attachments/assets/83f7d08b-ea74-40da-a604-c4805136b7b9"
+" 
        style="width: 50%; height: auto; border: 5px solid black; padding: 5px;">
 </p>
-
 
 We’re a collective of curious humans who believe code is better with laughter, collaboration, and a sprinkle of weirdness.  
 *Think of us as your digital campfire for creative problem-solving.*
